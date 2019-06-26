@@ -1,0 +1,33 @@
+#define _CRT_SECURE_NO_WARNINGS
+#pragma once
+#include <iostream>
+#include <locale.h>
+#include <time.h>
+#include <string>
+#include <fstream>
+#include <vector>
+#include <fstream>
+#include <conio.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctime>
+
+#include "studentBase.h"
+
+using std::cin;
+using std::ofstream;
+using std::ifstream;
+using std::cout;
+using std::tm;
+using std::time_t;
+using std::time;
+using std::localtime;
+using std::exception;
+using std::ios;
+using std::getline;
+using std::endl;
+using std::pair;
+using std::string;
+using std::fstream;
+using std::ofstream;
+using std::vector;
